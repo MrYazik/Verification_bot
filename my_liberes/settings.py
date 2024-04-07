@@ -1,2 +1,2 @@
-token = "MTA1Njk2ODQyNjkwNTY4MjAyMQ.GuFuC_.NxCaH05tvq0Ef2UpcYScU9p6QSBDuoi5DJ3GK0"
-message_id = "1057580872997535754"
+token = " " # Вставте сюда ваш токен
+message_id = " " # Вставте сюда ваш massage_id
