@@ -6,8 +6,8 @@
 
 1. Установите библиотеку discord.ext (для python3): sudo pip3 install discord
    Иначе: sudo pip install discord
-2. Перейдите на сайт https://discord.com/developers/
- 2.1. Войдите в аккаунт
+2. Перейдите на сайт https://discord.com/developers/\n
+ 2.1. Войдите в аккаунт/n
  2.2. Нажмите на кнопку: "New Application"
  2.3. Введите в поле "NAME" название вашего приложения и согласитесь со всеми пунктами.
  2.4. По желанию можете настроить иконку приложения, описание и название.
