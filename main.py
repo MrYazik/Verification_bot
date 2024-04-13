@@ -1,9 +1,20 @@
 from my_liberes.settings import * # Импортируем настройки (Токен и т.д)
 import discord # Подключаем библиотеку
 from discord.ext import commands
+import colorama # Библиотека для изменения цвета текста
+from colorama import Fore, Back, Style
+
+colorama.init() # Инициализируем библиотеку для изменения цвета текста
 
 intents = discord.Intents.all() # Выдаём все права
 
+
+# Проверка на токен
+
+if token == " ":
+    print(Fore.RED + "Вы не указали токен в папке ./my_liberes/setting.py" + Style.RESET_ALL)
+    print("")
+    
 
 # Задаём префикси интетнты
 
